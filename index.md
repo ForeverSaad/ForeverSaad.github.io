@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Sren Trade Assister
 
-You can use the [editor on GitHub](https://github.com/ForeverSaad/ForeverSaad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Sren Trade Assister is a multitool trading program, designed to make your trading experience easier.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## STA is an open-sourced program, meaning you can verify your information will be sent nowhere, ensuring you and your account's security.
+
+Have questions? View the FAQ below!
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+### FAQ
+- Q: Will this program still my cookies?
+- A: No, this program is open sourced, so you can verify it being secure yourself.
+- Q: Why do I have to provide my cookie? RoPro and ITV (Popular trading extensions) don't make me.
+- A: This is a program, that you download onto your computer, providing all necesities for trading without needing to change windows. That being said, extensions like RoPro or ITV already have access to your cookies.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Have a question that wasn't answered here?
+Join the [Discord server!](https://google.com) here!
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ForeverSaad/ForeverSaad.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you want more information or want to contact me for any reasons innapropriate for the support server, please email me at holder@gmail.com
