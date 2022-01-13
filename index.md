@@ -6,10 +6,6 @@ Sren Trade Assister is a multitool trading program, designed to make your tradin
 
 Have questions? View the FAQ below!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 ### FAQ
 - Q: Will this program still my cookies?
