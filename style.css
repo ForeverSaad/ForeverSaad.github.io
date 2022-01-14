@@ -38,3 +38,13 @@ nav ul li a{
     text-decoration: none;
     color: #fff;
 }
+button{
+    background: #32c332;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    border: 0px;
+    outline: 0px;
+    cursor: pointer;
+    color: #fff;
+}
