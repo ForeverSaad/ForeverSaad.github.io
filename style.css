@@ -1,24 +1,60 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta name = "viewport" content="width=device-width, initial-scale=1.0">
-        <title>STA - Sren Trade Assister</title>
-        <link rel="stylesheet" href="style.css">
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'popping', sans-serif;
+    box-sizing: border-box;
+}
 
-    </head>
-    <body>
-        <div class="hero">
-            <nav>
-                <img src="/STA.png" class="logo">
-                <ul>
-                    <li><a href="">Update log</a></li>
-                    <li><a href="">FAQ</a></li>
-                    <li><a href="">Common Errors</a></li>
-                    <li><a href="">Download</a></li>
-                </ul>
-                <button type="button">Discord</button>
-                <li><a href="">Welcome to Sren Trade Assister</a></li>
-            </nav>
-        </div>
-    </body>
-</html>
+.hero{
+    background: #3d3d44;
+    min-height: 100vh;
+    width: 100%;
+    color: #fff;
+    position: relative;
+}
+nav{
+    display: flex;
+    align-items: center;
+    padding: 20px 8%;
+}
+
+nav .logo{
+    width: 160px;
+    cursor: pointer;
+}
+
+nav ul{
+    flex: 1;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+button{
+    background: #32c332;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    border: 0px;
+    outline: 0px;
+    cursor: pointer;
+    color: #fff;
+}
+
+nav li a{
+    color: #fff;
+    font: bold;
+    font-size: x-large;
+    position: center;
+    display: inline-block;
+    list-style: none;
+    margin: 100px;
+}
