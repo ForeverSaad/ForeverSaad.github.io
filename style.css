@@ -48,3 +48,10 @@ button{
     cursor: pointer;
     color: #fff;
 }
+
+nav li a{
+    color: #fff;
+    font: bold;
+    font-size: x-large;
+    position: center;
+}
